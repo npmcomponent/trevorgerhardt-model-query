@@ -3,7 +3,7 @@
  * Dependencies
  */
 
-var Collection = require('collection');
+var Collection = require('component-collection');
 
 /**
  *  Plugin.
